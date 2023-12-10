@@ -1,6 +1,15 @@
+body{
+    margin: 0;
+    font-family: 'Comic Sans MS';
+}
+
 .navbar ul {
   list-style-type: none;
   display: flex;
   gap: 10px;
   justify-content: space-evenly;
+}
+
+.navbar{
+    background-color: aqua;
 }
