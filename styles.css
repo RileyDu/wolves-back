@@ -1,6 +1,7 @@
 body{
     margin: 0;
     font-family: 'Comic Sans MS';
+    background-color: #4CBB17;
 }
 
 .navbar ul {
@@ -11,5 +12,10 @@ body{
 }
 
 .navbar{
-    background-color: aqua;
+    background-color: #2E5DB5;
+}
+
+h2 {
+  text-align: center;
+  text-decoration: underline;
 }
